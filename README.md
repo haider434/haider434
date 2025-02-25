@@ -1,7 +1,7 @@
 
 <center>
   
-### 👋 **Haider,** Creative Full Stack Developer
+### 👋 **Hammad,** Creative Full Stack Developer
   
 </center>
 
